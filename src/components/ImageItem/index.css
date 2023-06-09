@@ -1,0 +1,12 @@
+.image-item {
+  list-style-type: none;
+}
+.thumbnail-image {
+  width: 150px;
+  height: 165px;
+  margin: 20px;
+}
+.button-img {
+  background-color: transparent;
+  border-width: 0px;
+}
